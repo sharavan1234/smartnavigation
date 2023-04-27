@@ -1,0 +1,14 @@
+#faculty{
+    line-height: 40px;
+}
+.l-item{
+    text-decoration: none;
+    color: black;
+}
+.image{
+    height:200px;
+    justify-content: space-between;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
